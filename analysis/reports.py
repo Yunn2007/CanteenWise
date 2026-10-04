@@ -4,7 +4,10 @@ Generates monthly executive summaries, financial performance reports,
 and professional PDF export capabilities for CanteenWise.
 """
 
+import sys
 import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 import pandas as pd
 from utils.csv_handler import CSVHandler
 from analysis.profit_analysis import ProfitAnalyzer
@@ -17,6 +20,10 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 
 class ReportGenerator:
     def __init__(self, data_dir="data"):
+        if not os.path.isabs(data_dir):
+            base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+            data_dir = os.path.join(base_dir, data_dir)
+        self.data_dir = data_dir
         self.sales_handler = CSVHandler(os.path.join(data_dir, "sales.csv"), id_column=None)
         self.waste_handler = CSVHandler(os.path.join(data_dir, "waste.csv"), id_column=None)
         self.purchases_handler = CSVHandler(os.path.join(data_dir, "purchases.csv"), id_column=None)

@@ -4,13 +4,20 @@ Rule-Based Insight and Recommendation Engine for CanteenWise.
 Scans analytical dataframes using conditional logic to generate automated alerts.
 """
 
+import sys
 import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 import pandas as pd
 from analysis.consumption_analysis import ConsumptionAnalyzer
 from analysis.profit_analysis import ProfitAnalyzer
 
 class InsightEngine:
     def __init__(self, data_dir="data"):
+        if not os.path.isabs(data_dir):
+            base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+            data_dir = os.path.join(base_dir, data_dir)
+        self.data_dir = data_dir
         self.consumption_analyzer = ConsumptionAnalyzer(data_dir)
         self.profit_analyzer = ProfitAnalyzer(data_dir)
 

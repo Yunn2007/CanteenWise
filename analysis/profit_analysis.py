@@ -3,12 +3,20 @@ analysis/profit_analysis.py
 Computes true item-level profitability and financial returns.
 """
 
+import sys
 import os
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
+import numpy as np
 import pandas as pd
 from utils.csv_handler import CSVHandler
 
 class ProfitAnalyzer:
     def __init__(self, data_dir="data"):
+        if not os.path.isabs(data_dir):
+            base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+            data_dir = os.path.join(base_dir, data_dir)
+        self.data_dir = data_dir
         self.sales_handler = CSVHandler(os.path.join(data_dir, "sales.csv"), id_column=None)
         self.products_handler = CSVHandler(os.path.join(data_dir, "products.csv"), id_column="product_id")
         self.waste_handler = CSVHandler(os.path.join(data_dir, "waste.csv"), id_column=None)
@@ -58,4 +66,3 @@ if __name__ == "__main__":
     df_profit = analyzer.calculate_item_profitability()
     print("--- Item Profitability Summary (Top 5) ---")
     print(df_profit[["product_name", "total_revenue", "net_profit", "profit_margin_pct"]].head())
-    
