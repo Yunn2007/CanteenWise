@@ -1,0 +1,880 @@
+purchase_id,date,ingredient_id,quantity,total_cost,supplier
+PUR0001,2026-01-01,ING015,18.3,2379.0,Annapurna Dairy & Milk Supplies
+PUR0002,2026-01-02,ING010,8.1,648.0,Kisan Sabzi Mandi Co-op
+PUR0003,2026-01-02,ING013,24.4,1464.0,Annapurna Dairy & Milk Supplies
+PUR0004,2026-01-02,ING015,15.9,2067.0,Annapurna Dairy & Milk Supplies
+PUR0005,2026-01-02,ING030,29.6,1036.0,Modern Bakery & Buns Supplies
+PUR0006,2026-01-03,ING011,60.6,3393.6,Annapurna Dairy & Milk Supplies
+PUR0007,2026-01-03,ING015,21.4,2782.0,Annapurna Dairy & Milk Supplies
+PUR0008,2026-01-04,ING001,62.2,1555.0,Kisan Sabzi Mandi Co-op
+PUR0009,2026-01-04,ING012,15.5,4960.0,Annapurna Dairy & Milk Supplies
+PUR0010,2026-01-04,ING032,23.3,815.5,Modern Bakery & Buns Supplies
+PUR0011,2026-01-05,ING009,13.2,594.0,Kisan Sabzi Mandi Co-op
+PUR0012,2026-01-05,ING015,15.1,1963.0,Annapurna Dairy & Milk Supplies
+PUR0013,2026-01-05,ING030,29.3,1025.5,Modern Bakery & Buns Supplies
+PUR0014,2026-01-05,ING031,35.0,1050.0,Modern Bakery & Buns Supplies
+PUR0015,2026-01-06,ING002,88.4,3094.0,Kisan Sabzi Mandi Co-op
+PUR0016,2026-01-06,ING007,14.6,1022.0,Kisan Sabzi Mandi Co-op
+PUR0017,2026-01-06,ING010,6.0,480.0,Kisan Sabzi Mandi Co-op
+PUR0018,2026-01-06,ING013,19.7,1182.0,Annapurna Dairy & Milk Supplies
+PUR0019,2026-01-06,ING015,22.3,2899.0,Annapurna Dairy & Milk Supplies
+PUR0020,2026-01-06,ING016,149.9,6745.5,Balaji Provisions & Grain Traders
+PUR0021,2026-01-06,ING029,31.8,8904.0,Swastik Oil Mills & Spices
+PUR0022,2026-01-07,ING001,89.6,2240.0,Kisan Sabzi Mandi Co-op
+PUR0023,2026-01-07,ING011,59.5,3332.0,Annapurna Dairy & Milk Supplies
+PUR0024,2026-01-07,ING012,16.5,5280.0,Annapurna Dairy & Milk Supplies
+PUR0025,2026-01-07,ING013,23.9,1434.0,Annapurna Dairy & Milk Supplies
+PUR0026,2026-01-07,ING015,15.4,2002.0,Annapurna Dairy & Milk Supplies
+PUR0027,2026-01-07,ING030,22.8,798.0,Modern Bakery & Buns Supplies
+PUR0028,2026-01-07,ING032,23.7,829.5,Modern Bakery & Buns Supplies
+PUR0029,2026-01-08,ING003,53.4,1602.0,Kisan Sabzi Mandi Co-op
+PUR0030,2026-01-08,ING010,8.6,688.0,Kisan Sabzi Mandi Co-op
+PUR0031,2026-01-08,ING015,18.8,2444.0,Annapurna Dairy & Milk Supplies
+PUR0032,2026-01-08,ING025,100.7,13091.0,Swastik Oil Mills & Spices
+PUR0033,2026-01-08,ING030,28.9,1011.5,Modern Bakery & Buns Supplies
+PUR0034,2026-01-09,ING008,15.8,474.0,Kisan Sabzi Mandi Co-op
+PUR0035,2026-01-09,ING012,15.5,4960.0,Annapurna Dairy & Milk Supplies
+PUR0036,2026-01-09,ING015,22.9,2977.0,Annapurna Dairy & Milk Supplies
+PUR0037,2026-01-09,ING017,90.1,7658.5,Balaji Provisions & Grain Traders
+PUR0038,2026-01-10,ING009,11.4,513.0,Kisan Sabzi Mandi Co-op
+PUR0039,2026-01-10,ING011,57.1,3197.6,Annapurna Dairy & Milk Supplies
+PUR0040,2026-01-10,ING031,37.6,1128.0,Modern Bakery & Buns Supplies
+PUR0041,2026-01-11,ING004,9.7,582.0,Kisan Sabzi Mandi Co-op
+PUR0042,2026-01-11,ING013,19.9,1194.0,Annapurna Dairy & Milk Supplies
+PUR0043,2026-01-11,ING014,19.3,9264.0,Annapurna Dairy & Milk Supplies
+PUR0044,2026-01-11,ING015,22.4,2912.0,Annapurna Dairy & Milk Supplies
+PUR0045,2026-01-11,ING030,25.7,899.5,Modern Bakery & Buns Supplies
+PUR0046,2026-01-12,ING010,7.8,624.0,Kisan Sabzi Mandi Co-op
+PUR0047,2026-01-12,ING015,20.6,2678.0,Annapurna Dairy & Milk Supplies
+PUR0048,2026-01-12,ING020,46.4,2320.0,Balaji Provisions & Grain Traders
+PUR0049,2026-01-12,ING032,27.4,959.0,Modern Bakery & Buns Supplies
+PUR0050,2026-01-13,ING001,73.5,1837.5,Kisan Sabzi Mandi Co-op
+PUR0051,2026-01-13,ING007,13.3,931.0,Kisan Sabzi Mandi Co-op
+PUR0052,2026-01-13,ING012,15.6,4992.0,Annapurna Dairy & Milk Supplies
+PUR0053,2026-01-13,ING013,22.5,1350.0,Annapurna Dairy & Milk Supplies
+PUR0054,2026-01-13,ING015,16.0,2080.0,Annapurna Dairy & Milk Supplies
+PUR0055,2026-01-13,ING019,96.3,4044.6,Balaji Provisions & Grain Traders
+PUR0056,2026-01-13,ING021,64.7,9058.0,Balaji Provisions & Grain Traders
+PUR0057,2026-01-13,ING030,23.1,808.5,Modern Bakery & Buns Supplies
+PUR0058,2026-01-14,ING002,74.8,2618.0,Kisan Sabzi Mandi Co-op
+PUR0059,2026-01-14,ING010,8.8,704.0,Kisan Sabzi Mandi Co-op
+PUR0060,2026-01-14,ING011,49.5,2772.0,Annapurna Dairy & Milk Supplies
+PUR0061,2026-01-14,ING015,21.1,2743.0,Annapurna Dairy & Milk Supplies
+PUR0062,2026-01-14,ING022,58.4,7592.0,Balaji Provisions & Grain Traders
+PUR0063,2026-01-14,ING028,77.4,3250.8,Metro Wholesale Mart
+PUR0064,2026-01-14,ING030,26.1,913.5,Modern Bakery & Buns Supplies
+PUR0065,2026-01-15,ING006,6.0,300.0,Kisan Sabzi Mandi Co-op
+PUR0066,2026-01-15,ING009,12.9,580.5,Kisan Sabzi Mandi Co-op
+PUR0067,2026-01-15,ING012,15.0,4800.0,Annapurna Dairy & Milk Supplies
+PUR0068,2026-01-15,ING013,18.8,1128.0,Annapurna Dairy & Milk Supplies
+PUR0069,2026-01-15,ING015,22.4,2912.0,Annapurna Dairy & Milk Supplies
+PUR0070,2026-01-15,ING016,153.0,6885.0,Balaji Provisions & Grain Traders
+PUR0071,2026-01-15,ING026,23.6,7552.0,Metro Wholesale Mart
+PUR0072,2026-01-15,ING030,26.3,920.5,Modern Bakery & Buns Supplies
+PUR0073,2026-01-15,ING031,38.7,1161.0,Modern Bakery & Buns Supplies
+PUR0074,2026-01-15,ING032,22.7,794.5,Modern Bakery & Buns Supplies
+PUR0075,2026-01-16,ING001,89.9,2247.5,Kisan Sabzi Mandi Co-op
+PUR0076,2026-01-16,ING010,7.4,592.0,Kisan Sabzi Mandi Co-op
+PUR0077,2026-01-16,ING011,46.9,2626.4,Annapurna Dairy & Milk Supplies
+PUR0078,2026-01-16,ING015,17.1,2223.0,Annapurna Dairy & Milk Supplies
+PUR0079,2026-01-16,ING018,131.2,5248.0,Balaji Provisions & Grain Traders
+PUR0080,2026-01-16,ING027,11.1,6660.0,Metro Wholesale Mart
+PUR0081,2026-01-17,ING003,55.3,1659.0,Kisan Sabzi Mandi Co-op
+PUR0082,2026-01-17,ING015,22.3,2899.0,Annapurna Dairy & Milk Supplies
+PUR0083,2026-01-18,ING012,15.8,5056.0,Annapurna Dairy & Milk Supplies
+PUR0084,2026-01-18,ING013,22.3,1338.0,Annapurna Dairy & Milk Supplies
+PUR0085,2026-01-19,ING011,52.7,2951.2,Annapurna Dairy & Milk Supplies
+PUR0086,2026-01-19,ING015,16.3,2119.0,Annapurna Dairy & Milk Supplies
+PUR0087,2026-01-19,ING029,27.2,7616.0,Swastik Oil Mills & Spices
+PUR0088,2026-01-19,ING030,21.9,766.5,Modern Bakery & Buns Supplies
+PUR0089,2026-01-19,ING032,29.4,1029.0,Modern Bakery & Buns Supplies
+PUR0090,2026-01-20,ING007,13.8,966.0,Kisan Sabzi Mandi Co-op
+PUR0091,2026-01-20,ING010,6.6,528.0,Kisan Sabzi Mandi Co-op
+PUR0092,2026-01-20,ING015,16.9,2197.0,Annapurna Dairy & Milk Supplies
+PUR0093,2026-01-20,ING030,24.3,850.5,Modern Bakery & Buns Supplies
+PUR0094,2026-01-20,ING031,39.6,1188.0,Modern Bakery & Buns Supplies
+PUR0095,2026-01-21,ING001,88.5,2212.5,Kisan Sabzi Mandi Co-op
+PUR0096,2026-01-21,ING009,11.7,526.5,Kisan Sabzi Mandi Co-op
+PUR0097,2026-01-21,ING011,61.6,3449.6,Annapurna Dairy & Milk Supplies
+PUR0098,2026-01-21,ING012,19.6,6272.0,Annapurna Dairy & Milk Supplies
+PUR0099,2026-01-21,ING013,20.5,1230.0,Annapurna Dairy & Milk Supplies
+PUR0100,2026-01-21,ING015,16.8,2184.0,Annapurna Dairy & Milk Supplies
+PUR0101,2026-01-22,ING002,86.7,3034.5,Kisan Sabzi Mandi Co-op
+PUR0102,2026-01-22,ING005,12.0,1440.0,Kisan Sabzi Mandi Co-op
+PUR0103,2026-01-22,ING008,12.9,387.0,Kisan Sabzi Mandi Co-op
+PUR0104,2026-01-22,ING010,6.9,552.0,Kisan Sabzi Mandi Co-op
+PUR0105,2026-01-22,ING015,15.6,2028.0,Annapurna Dairy & Milk Supplies
+PUR0106,2026-01-22,ING024,33.3,4495.5,Balaji Provisions & Grain Traders
+PUR0107,2026-01-22,ING025,83.7,10881.0,Swastik Oil Mills & Spices
+PUR0108,2026-01-22,ING030,27.1,948.5,Modern Bakery & Buns Supplies
+PUR0109,2026-01-23,ING004,9.8,588.0,Kisan Sabzi Mandi Co-op
+PUR0110,2026-01-23,ING013,24.1,1446.0,Annapurna Dairy & Milk Supplies
+PUR0111,2026-01-23,ING015,15.6,2028.0,Annapurna Dairy & Milk Supplies
+PUR0112,2026-01-23,ING032,23.7,829.5,Modern Bakery & Buns Supplies
+PUR0113,2026-01-24,ING012,17.4,5568.0,Annapurna Dairy & Milk Supplies
+PUR0114,2026-01-24,ING015,20.0,2600.0,Annapurna Dairy & Milk Supplies
+PUR0115,2026-01-24,ING031,34.2,1026.0,Modern Bakery & Buns Supplies
+PUR0116,2026-01-25,ING010,8.9,712.0,Kisan Sabzi Mandi Co-op
+PUR0117,2026-01-25,ING011,46.0,2576.0,Annapurna Dairy & Milk Supplies
+PUR0118,2026-01-25,ING030,27.4,959.0,Modern Bakery & Buns Supplies
+PUR0119,2026-01-26,ING009,12.0,540.0,Kisan Sabzi Mandi Co-op
+PUR0120,2026-01-26,ING015,19.8,2574.0,Annapurna Dairy & Milk Supplies
+PUR0121,2026-01-26,ING017,85.7,7284.5,Balaji Provisions & Grain Traders
+PUR0122,2026-01-27,ING001,65.1,1627.5,Kisan Sabzi Mandi Co-op
+PUR0123,2026-01-27,ING007,14.7,1029.0,Kisan Sabzi Mandi Co-op
+PUR0124,2026-01-27,ING011,51.5,2884.0,Annapurna Dairy & Milk Supplies
+PUR0125,2026-01-27,ING013,19.0,1140.0,Annapurna Dairy & Milk Supplies
+PUR0126,2026-01-27,ING015,15.9,2067.0,Annapurna Dairy & Milk Supplies
+PUR0127,2026-01-27,ING023,42.8,5136.0,Balaji Provisions & Grain Traders
+PUR0128,2026-01-27,ING030,24.8,868.0,Modern Bakery & Buns Supplies
+PUR0129,2026-01-28,ING003,51.3,1539.0,Kisan Sabzi Mandi Co-op
+PUR0130,2026-01-28,ING010,8.4,672.0,Kisan Sabzi Mandi Co-op
+PUR0131,2026-01-28,ING012,18.7,5984.0,Annapurna Dairy & Milk Supplies
+PUR0132,2026-01-28,ING015,16.1,2093.0,Annapurna Dairy & Milk Supplies
+PUR0133,2026-01-28,ING016,113.5,5107.5,Balaji Provisions & Grain Traders
+PUR0134,2026-01-28,ING030,26.9,941.5,Modern Bakery & Buns Supplies
+PUR0135,2026-01-28,ING031,39.5,1185.0,Modern Bakery & Buns Supplies
+PUR0136,2026-01-28,ING032,22.2,777.0,Modern Bakery & Buns Supplies
+PUR0137,2026-01-29,ING011,56.4,3158.4,Annapurna Dairy & Milk Supplies
+PUR0138,2026-01-29,ING013,24.4,1464.0,Annapurna Dairy & Milk Supplies
+PUR0139,2026-01-29,ING015,23.4,3042.0,Annapurna Dairy & Milk Supplies
+PUR0140,2026-01-29,ING029,27.7,7756.0,Swastik Oil Mills & Spices
+PUR0141,2026-01-30,ING001,68.5,1712.5,Kisan Sabzi Mandi Co-op
+PUR0142,2026-01-30,ING009,13.1,589.5,Kisan Sabzi Mandi Co-op
+PUR0143,2026-01-30,ING012,16.9,5408.0,Annapurna Dairy & Milk Supplies
+PUR0144,2026-01-30,ING013,23.2,1392.0,Annapurna Dairy & Milk Supplies
+PUR0145,2026-01-30,ING014,17.6,8448.0,Annapurna Dairy & Milk Supplies
+PUR0146,2026-01-30,ING015,20.5,2665.0,Annapurna Dairy & Milk Supplies
+PUR0147,2026-01-30,ING030,24.5,857.5,Modern Bakery & Buns Supplies
+PUR0148,2026-01-31,ING002,99.5,3482.5,Kisan Sabzi Mandi Co-op
+PUR0149,2026-01-31,ING006,6.4,320.0,Kisan Sabzi Mandi Co-op
+PUR0150,2026-01-31,ING010,8.8,704.0,Kisan Sabzi Mandi Co-op
+PUR0151,2026-01-31,ING015,16.4,2132.0,Annapurna Dairy & Milk Supplies
+PUR0152,2026-01-31,ING032,26.1,913.5,Modern Bakery & Buns Supplies
+PUR0153,2026-02-01,ING011,51.3,2872.8,Annapurna Dairy & Milk Supplies
+PUR0154,2026-02-01,ING015,16.3,2119.0,Annapurna Dairy & Milk Supplies
+PUR0155,2026-02-02,ING015,20.7,2691.0,Annapurna Dairy & Milk Supplies
+PUR0156,2026-02-02,ING020,41.4,2070.0,Balaji Provisions & Grain Traders
+PUR0157,2026-02-02,ING030,29.7,1039.5,Modern Bakery & Buns Supplies
+PUR0158,2026-02-03,ING001,90.0,2250.0,Kisan Sabzi Mandi Co-op
+PUR0159,2026-02-03,ING008,17.3,519.0,Kisan Sabzi Mandi Co-op
+PUR0160,2026-02-03,ING012,16.5,5280.0,Annapurna Dairy & Milk Supplies
+PUR0161,2026-02-03,ING013,18.1,1086.0,Annapurna Dairy & Milk Supplies
+PUR0162,2026-02-03,ING015,22.2,2886.0,Annapurna Dairy & Milk Supplies
+PUR0163,2026-02-03,ING025,81.5,10595.0,Swastik Oil Mills & Spices
+PUR0164,2026-02-03,ING031,38.2,1146.0,Modern Bakery & Buns Supplies
+PUR0165,2026-02-04,ING007,13.6,952.0,Kisan Sabzi Mandi Co-op
+PUR0166,2026-02-04,ING010,7.6,608.0,Kisan Sabzi Mandi Co-op
+PUR0167,2026-02-04,ING011,49.0,2744.0,Annapurna Dairy & Milk Supplies
+PUR0168,2026-02-04,ING013,20.8,1248.0,Annapurna Dairy & Milk Supplies
+PUR0169,2026-02-04,ING015,22.6,2938.0,Annapurna Dairy & Milk Supplies
+PUR0170,2026-02-04,ING016,121.2,5454.0,Balaji Provisions & Grain Traders
+PUR0171,2026-02-04,ING021,78.3,10962.0,Balaji Provisions & Grain Traders
+PUR0172,2026-02-04,ING028,78.3,3288.6,Metro Wholesale Mart
+PUR0173,2026-02-04,ING030,25.1,878.5,Modern Bakery & Buns Supplies
+PUR0174,2026-02-05,ING004,10.9,654.0,Kisan Sabzi Mandi Co-op
+PUR0175,2026-02-05,ING009,12.2,549.0,Kisan Sabzi Mandi Co-op
+PUR0176,2026-02-05,ING012,16.6,5312.0,Annapurna Dairy & Milk Supplies
+PUR0177,2026-02-05,ING015,18.3,2379.0,Annapurna Dairy & Milk Supplies
+PUR0178,2026-02-05,ING030,24.3,850.5,Modern Bakery & Buns Supplies
+PUR0179,2026-02-05,ING032,25.0,875.0,Modern Bakery & Buns Supplies
+PUR0180,2026-02-06,ING003,54.5,1635.0,Kisan Sabzi Mandi Co-op
+PUR0181,2026-02-06,ING010,6.6,528.0,Kisan Sabzi Mandi Co-op
+PUR0182,2026-02-06,ING011,48.8,2732.8,Annapurna Dairy & Milk Supplies
+PUR0183,2026-02-06,ING013,19.3,1158.0,Annapurna Dairy & Milk Supplies
+PUR0184,2026-02-06,ING015,16.8,2184.0,Annapurna Dairy & Milk Supplies
+PUR0185,2026-02-06,ING019,95.3,4002.6,Balaji Provisions & Grain Traders
+PUR0186,2026-02-07,ING031,40.7,1221.0,Modern Bakery & Buns Supplies
+PUR0187,2026-02-08,ING015,20.6,2678.0,Annapurna Dairy & Milk Supplies
+PUR0188,2026-02-08,ING029,30.8,8624.0,Swastik Oil Mills & Spices
+PUR0189,2026-02-08,ING030,26.2,917.0,Modern Bakery & Buns Supplies
+PUR0190,2026-02-09,ING001,82.9,2072.5,Kisan Sabzi Mandi Co-op
+PUR0191,2026-02-09,ING010,7.2,576.0,Kisan Sabzi Mandi Co-op
+PUR0192,2026-02-09,ING011,56.3,3152.8,Annapurna Dairy & Milk Supplies
+PUR0193,2026-02-09,ING012,15.6,4992.0,Annapurna Dairy & Milk Supplies
+PUR0194,2026-02-09,ING015,16.3,2119.0,Annapurna Dairy & Milk Supplies
+PUR0195,2026-02-09,ING017,66.6,5661.0,Balaji Provisions & Grain Traders
+PUR0196,2026-02-09,ING032,27.1,948.5,Modern Bakery & Buns Supplies
+PUR0197,2026-02-10,ING013,20.1,1206.0,Annapurna Dairy & Milk Supplies
+PUR0198,2026-02-10,ING015,22.5,2925.0,Annapurna Dairy & Milk Supplies
+PUR0199,2026-02-10,ING027,14.6,8760.0,Metro Wholesale Mart
+PUR0200,2026-02-10,ING030,26.8,938.0,Modern Bakery & Buns Supplies
+PUR0201,2026-02-11,ING002,64.4,2254.0,Kisan Sabzi Mandi Co-op
+PUR0202,2026-02-11,ING007,11.1,777.0,Kisan Sabzi Mandi Co-op
+PUR0203,2026-02-11,ING009,12.8,576.0,Kisan Sabzi Mandi Co-op
+PUR0204,2026-02-11,ING011,47.7,2671.2,Annapurna Dairy & Milk Supplies
+PUR0205,2026-02-11,ING012,16.6,5312.0,Annapurna Dairy & Milk Supplies
+PUR0206,2026-02-11,ING015,19.7,2561.0,Annapurna Dairy & Milk Supplies
+PUR0207,2026-02-12,ING010,6.5,520.0,Kisan Sabzi Mandi Co-op
+PUR0208,2026-02-12,ING013,21.1,1266.0,Annapurna Dairy & Milk Supplies
+PUR0209,2026-02-12,ING015,21.2,2756.0,Annapurna Dairy & Milk Supplies
+PUR0210,2026-02-12,ING026,18.5,5920.0,Metro Wholesale Mart
+PUR0211,2026-02-12,ING030,27.2,952.0,Modern Bakery & Buns Supplies
+PUR0212,2026-02-13,ING001,68.2,1705.0,Kisan Sabzi Mandi Co-op
+PUR0213,2026-02-13,ING010,8.2,656.0,Kisan Sabzi Mandi Co-op
+PUR0214,2026-02-13,ING011,54.9,3074.4,Annapurna Dairy & Milk Supplies
+PUR0215,2026-02-13,ING015,16.4,2132.0,Annapurna Dairy & Milk Supplies
+PUR0216,2026-02-13,ING016,124.1,5584.5,Balaji Provisions & Grain Traders
+PUR0217,2026-02-13,ING025,110.2,14326.0,Swastik Oil Mills & Spices
+PUR0218,2026-02-13,ING031,34.9,1047.0,Modern Bakery & Buns Supplies
+PUR0219,2026-02-13,ING032,25.1,878.5,Modern Bakery & Buns Supplies
+PUR0220,2026-02-14,ING012,17.0,5440.0,Annapurna Dairy & Milk Supplies
+PUR0221,2026-02-14,ING013,24.1,1446.0,Annapurna Dairy & Milk Supplies
+PUR0222,2026-02-14,ING030,22.7,794.5,Modern Bakery & Buns Supplies
+PUR0223,2026-02-15,ING015,23.4,3042.0,Annapurna Dairy & Milk Supplies
+PUR0224,2026-02-16,ING009,11.6,522.0,Kisan Sabzi Mandi Co-op
+PUR0225,2026-02-17,ING001,88.0,2200.0,Kisan Sabzi Mandi Co-op
+PUR0226,2026-02-17,ING002,85.5,2992.5,Kisan Sabzi Mandi Co-op
+PUR0227,2026-02-17,ING003,54.7,1641.0,Kisan Sabzi Mandi Co-op
+PUR0228,2026-02-17,ING006,7.2,360.0,Kisan Sabzi Mandi Co-op
+PUR0229,2026-02-17,ING007,13.4,938.0,Kisan Sabzi Mandi Co-op
+PUR0230,2026-02-17,ING008,16.7,501.0,Kisan Sabzi Mandi Co-op
+PUR0231,2026-02-17,ING010,6.3,504.0,Kisan Sabzi Mandi Co-op
+PUR0232,2026-02-17,ING011,45.2,2531.2,Annapurna Dairy & Milk Supplies
+PUR0233,2026-02-17,ING012,19.2,6144.0,Annapurna Dairy & Milk Supplies
+PUR0234,2026-02-17,ING013,18.4,1104.0,Annapurna Dairy & Milk Supplies
+PUR0235,2026-02-17,ING014,18.9,9072.0,Annapurna Dairy & Milk Supplies
+PUR0236,2026-02-17,ING015,17.8,2314.0,Annapurna Dairy & Milk Supplies
+PUR0237,2026-02-17,ING030,29.2,1022.0,Modern Bakery & Buns Supplies
+PUR0238,2026-02-17,ING031,35.0,1050.0,Modern Bakery & Buns Supplies
+PUR0239,2026-02-17,ING032,22.9,801.5,Modern Bakery & Buns Supplies
+PUR0240,2026-02-18,ING005,11.1,1332.0,Kisan Sabzi Mandi Co-op
+PUR0241,2026-02-18,ING015,22.6,2938.0,Annapurna Dairy & Milk Supplies
+PUR0242,2026-02-18,ING030,24.6,861.0,Modern Bakery & Buns Supplies
+PUR0243,2026-02-19,ING010,8.7,696.0,Kisan Sabzi Mandi Co-op
+PUR0244,2026-02-19,ING011,55.2,3091.2,Annapurna Dairy & Milk Supplies
+PUR0245,2026-02-19,ING013,23.8,1428.0,Annapurna Dairy & Milk Supplies
+PUR0246,2026-02-19,ING015,19.3,2509.0,Annapurna Dairy & Milk Supplies
+PUR0247,2026-02-19,ING017,88.9,7556.5,Balaji Provisions & Grain Traders
+PUR0248,2026-02-19,ING018,102.7,4108.0,Balaji Provisions & Grain Traders
+PUR0249,2026-02-19,ING020,39.8,1990.0,Balaji Provisions & Grain Traders
+PUR0250,2026-02-19,ING022,50.1,6513.0,Balaji Provisions & Grain Traders
+PUR0251,2026-02-19,ING029,30.8,8624.0,Swastik Oil Mills & Spices
+PUR0252,2026-02-20,ING004,8.6,516.0,Kisan Sabzi Mandi Co-op
+PUR0253,2026-02-20,ING009,12.1,544.5,Kisan Sabzi Mandi Co-op
+PUR0254,2026-02-20,ING012,17.4,5568.0,Annapurna Dairy & Milk Supplies
+PUR0255,2026-02-20,ING015,20.6,2678.0,Annapurna Dairy & Milk Supplies
+PUR0256,2026-02-20,ING030,22.9,801.5,Modern Bakery & Buns Supplies
+PUR0257,2026-02-20,ING032,26.2,917.0,Modern Bakery & Buns Supplies
+PUR0258,2026-02-21,ING001,74.1,1852.5,Kisan Sabzi Mandi Co-op
+PUR0259,2026-02-21,ING011,62.2,3483.2,Annapurna Dairy & Milk Supplies
+PUR0260,2026-02-21,ING031,41.1,1233.0,Modern Bakery & Buns Supplies
+PUR0261,2026-02-22,ING013,24.3,1458.0,Annapurna Dairy & Milk Supplies
+PUR0262,2026-02-22,ING015,23.8,3094.0,Annapurna Dairy & Milk Supplies
+PUR0263,2026-02-22,ING016,139.8,6291.0,Balaji Provisions & Grain Traders
+PUR0264,2026-02-23,ING010,6.4,512.0,Kisan Sabzi Mandi Co-op
+PUR0265,2026-02-23,ING030,25.3,885.5,Modern Bakery & Buns Supplies
+PUR0266,2026-02-24,ING007,13.8,966.0,Kisan Sabzi Mandi Co-op
+PUR0267,2026-02-24,ING012,15.2,4864.0,Annapurna Dairy & Milk Supplies
+PUR0268,2026-02-24,ING015,18.4,2392.0,Annapurna Dairy & Milk Supplies
+PUR0269,2026-02-25,ING009,11.9,535.5,Kisan Sabzi Mandi Co-op
+PUR0270,2026-02-25,ING010,6.5,520.0,Kisan Sabzi Mandi Co-op
+PUR0271,2026-02-25,ING011,45.3,2536.8,Annapurna Dairy & Milk Supplies
+PUR0272,2026-02-25,ING013,22.8,1368.0,Annapurna Dairy & Milk Supplies
+PUR0273,2026-02-25,ING015,22.4,2912.0,Annapurna Dairy & Milk Supplies
+PUR0274,2026-02-25,ING028,97.4,4090.8,Metro Wholesale Mart
+PUR0275,2026-02-25,ING030,26.5,927.5,Modern Bakery & Buns Supplies
+PUR0276,2026-02-25,ING032,23.1,808.5,Modern Bakery & Buns Supplies
+PUR0277,2026-02-26,ING001,86.8,2170.0,Kisan Sabzi Mandi Co-op
+PUR0278,2026-02-26,ING002,98.9,3461.5,Kisan Sabzi Mandi Co-op
+PUR0279,2026-02-26,ING012,19.7,6304.0,Annapurna Dairy & Milk Supplies
+PUR0280,2026-02-26,ING015,20.1,2613.0,Annapurna Dairy & Milk Supplies
+PUR0281,2026-02-27,ING003,57.7,1731.0,Kisan Sabzi Mandi Co-op
+PUR0282,2026-02-27,ING011,62.3,3488.8,Annapurna Dairy & Milk Supplies
+PUR0283,2026-02-27,ING013,24.2,1452.0,Annapurna Dairy & Milk Supplies
+PUR0284,2026-02-27,ING015,15.6,2028.0,Annapurna Dairy & Milk Supplies
+PUR0285,2026-02-27,ING024,32.4,4374.0,Balaji Provisions & Grain Traders
+PUR0286,2026-02-27,ING030,24.1,843.5,Modern Bakery & Buns Supplies
+PUR0287,2026-02-28,ING010,7.2,576.0,Kisan Sabzi Mandi Co-op
+PUR0288,2026-02-28,ING031,34.3,1029.0,Modern Bakery & Buns Supplies
+PUR0289,2026-03-01,ING015,23.9,3107.0,Annapurna Dairy & Milk Supplies
+PUR0290,2026-03-01,ING032,28.2,987.0,Modern Bakery & Buns Supplies
+PUR0291,2026-03-02,ING025,105.1,13663.0,Swastik Oil Mills & Spices
+PUR0292,2026-03-02,ING030,29.7,1039.5,Modern Bakery & Buns Supplies
+PUR0293,2026-03-03,ING009,11.6,522.0,Kisan Sabzi Mandi Co-op
+PUR0294,2026-03-03,ING010,8.1,648.0,Kisan Sabzi Mandi Co-op
+PUR0295,2026-03-03,ING011,61.6,3449.6,Annapurna Dairy & Milk Supplies
+PUR0296,2026-03-03,ING012,14.9,4768.0,Annapurna Dairy & Milk Supplies
+PUR0297,2026-03-03,ING013,22.2,1332.0,Annapurna Dairy & Milk Supplies
+PUR0298,2026-03-03,ING015,22.2,2886.0,Annapurna Dairy & Milk Supplies
+PUR0299,2026-03-03,ING021,50.5,7070.0,Balaji Provisions & Grain Traders
+PUR0300,2026-03-04,ING001,86.7,2167.5,Kisan Sabzi Mandi Co-op
+PUR0301,2026-03-04,ING007,12.1,847.0,Kisan Sabzi Mandi Co-op
+PUR0302,2026-03-04,ING015,16.5,2145.0,Annapurna Dairy & Milk Supplies
+PUR0303,2026-03-04,ING016,151.1,6799.5,Balaji Provisions & Grain Traders
+PUR0304,2026-03-04,ING019,69.7,2927.4,Balaji Provisions & Grain Traders
+PUR0305,2026-03-04,ING029,23.4,6552.0,Swastik Oil Mills & Spices
+PUR0306,2026-03-04,ING030,26.0,910.0,Modern Bakery & Buns Supplies
+PUR0307,2026-03-05,ING004,11.7,702.0,Kisan Sabzi Mandi Co-op
+PUR0308,2026-03-05,ING008,14.9,447.0,Kisan Sabzi Mandi Co-op
+PUR0309,2026-03-05,ING010,8.7,696.0,Kisan Sabzi Mandi Co-op
+PUR0310,2026-03-05,ING012,14.7,4704.0,Annapurna Dairy & Milk Supplies
+PUR0311,2026-03-05,ING013,19.7,1182.0,Annapurna Dairy & Milk Supplies
+PUR0312,2026-03-05,ING015,17.8,2314.0,Annapurna Dairy & Milk Supplies
+PUR0313,2026-03-05,ING023,47.6,5712.0,Balaji Provisions & Grain Traders
+PUR0314,2026-03-05,ING030,25.2,882.0,Modern Bakery & Buns Supplies
+PUR0315,2026-03-05,ING031,32.9,987.0,Modern Bakery & Buns Supplies
+PUR0316,2026-03-05,ING032,27.9,976.5,Modern Bakery & Buns Supplies
+PUR0317,2026-03-06,ING011,58.3,3264.8,Annapurna Dairy & Milk Supplies
+PUR0318,2026-03-06,ING015,19.1,2483.0,Annapurna Dairy & Milk Supplies
+PUR0319,2026-03-07,ING013,18.6,1116.0,Annapurna Dairy & Milk Supplies
+PUR0320,2026-03-07,ING015,20.0,2600.0,Annapurna Dairy & Milk Supplies
+PUR0321,2026-03-08,ING012,15.1,4832.0,Annapurna Dairy & Milk Supplies
+PUR0322,2026-03-09,ING001,89.3,2232.5,Kisan Sabzi Mandi Co-op
+PUR0323,2026-03-09,ING009,13.1,589.5,Kisan Sabzi Mandi Co-op
+PUR0324,2026-03-09,ING015,21.6,2808.0,Annapurna Dairy & Milk Supplies
+PUR0325,2026-03-09,ING017,63.2,5372.0,Balaji Provisions & Grain Traders
+PUR0326,2026-03-09,ING020,46.1,2305.0,Balaji Provisions & Grain Traders
+PUR0327,2026-03-09,ING026,23.1,7392.0,Metro Wholesale Mart
+PUR0328,2026-03-09,ING030,24.8,868.0,Modern Bakery & Buns Supplies
+PUR0329,2026-03-10,ING002,63.8,2233.0,Kisan Sabzi Mandi Co-op
+PUR0330,2026-03-10,ING006,6.8,340.0,Kisan Sabzi Mandi Co-op
+PUR0331,2026-03-10,ING007,13.5,945.0,Kisan Sabzi Mandi Co-op
+PUR0332,2026-03-10,ING010,7.0,560.0,Kisan Sabzi Mandi Co-op
+PUR0333,2026-03-10,ING011,59.1,3309.6,Annapurna Dairy & Milk Supplies
+PUR0334,2026-03-10,ING013,24.0,1440.0,Annapurna Dairy & Milk Supplies
+PUR0335,2026-03-10,ING014,18.4,8832.0,Annapurna Dairy & Milk Supplies
+PUR0336,2026-03-10,ING015,18.7,2431.0,Annapurna Dairy & Milk Supplies
+PUR0337,2026-03-10,ING031,36.7,1101.0,Modern Bakery & Buns Supplies
+PUR0338,2026-03-10,ING032,29.5,1032.5,Modern Bakery & Buns Supplies
+PUR0339,2026-03-11,ING003,54.4,1632.0,Kisan Sabzi Mandi Co-op
+PUR0340,2026-03-11,ING012,17.5,5600.0,Annapurna Dairy & Milk Supplies
+PUR0341,2026-03-11,ING015,19.4,2522.0,Annapurna Dairy & Milk Supplies
+PUR0342,2026-03-11,ING030,23.8,833.0,Modern Bakery & Buns Supplies
+PUR0343,2026-03-12,ING010,8.7,696.0,Kisan Sabzi Mandi Co-op
+PUR0344,2026-03-12,ING013,24.4,1464.0,Annapurna Dairy & Milk Supplies
+PUR0345,2026-03-12,ING015,15.8,2054.0,Annapurna Dairy & Milk Supplies
+PUR0346,2026-03-12,ING029,28.0,7840.0,Swastik Oil Mills & Spices
+PUR0347,2026-03-12,ING030,24.3,850.5,Modern Bakery & Buns Supplies
+PUR0348,2026-03-13,ING001,75.3,1882.5,Kisan Sabzi Mandi Co-op
+PUR0349,2026-03-13,ING011,47.0,2632.0,Annapurna Dairy & Milk Supplies
+PUR0350,2026-03-13,ING015,22.3,2899.0,Annapurna Dairy & Milk Supplies
+PUR0351,2026-03-13,ING027,14.8,8880.0,Metro Wholesale Mart
+PUR0352,2026-03-14,ING009,10.5,472.5,Kisan Sabzi Mandi Co-op
+PUR0353,2026-03-14,ING012,14.8,4736.0,Annapurna Dairy & Milk Supplies
+PUR0354,2026-03-14,ING031,37.1,1113.0,Modern Bakery & Buns Supplies
+PUR0355,2026-03-15,ING030,22.9,801.5,Modern Bakery & Buns Supplies
+PUR0356,2026-03-16,ING002,92.6,3241.0,Kisan Sabzi Mandi Co-op
+PUR0357,2026-03-16,ING010,8.3,664.0,Kisan Sabzi Mandi Co-op
+PUR0358,2026-03-16,ING011,60.1,3365.6,Annapurna Dairy & Milk Supplies
+PUR0359,2026-03-16,ING013,18.1,1086.0,Annapurna Dairy & Milk Supplies
+PUR0360,2026-03-16,ING015,15.1,1963.0,Annapurna Dairy & Milk Supplies
+PUR0361,2026-03-16,ING016,148.4,6678.0,Balaji Provisions & Grain Traders
+PUR0362,2026-03-16,ING032,28.9,1011.5,Modern Bakery & Buns Supplies
+PUR0363,2026-03-17,ING005,13.1,1572.0,Kisan Sabzi Mandi Co-op
+PUR0364,2026-03-17,ING015,16.4,2132.0,Annapurna Dairy & Milk Supplies
+PUR0365,2026-03-17,ING025,103.2,13416.0,Swastik Oil Mills & Spices
+PUR0366,2026-03-17,ING030,28.9,1011.5,Modern Bakery & Buns Supplies
+PUR0367,2026-03-18,ING001,73.8,1845.0,Kisan Sabzi Mandi Co-op
+PUR0368,2026-03-18,ING007,14.4,1008.0,Kisan Sabzi Mandi Co-op
+PUR0369,2026-03-18,ING008,16.7,501.0,Kisan Sabzi Mandi Co-op
+PUR0370,2026-03-18,ING010,6.3,504.0,Kisan Sabzi Mandi Co-op
+PUR0371,2026-03-18,ING012,15.1,4832.0,Annapurna Dairy & Milk Supplies
+PUR0372,2026-03-18,ING013,22.9,1374.0,Annapurna Dairy & Milk Supplies
+PUR0373,2026-03-18,ING015,16.8,2184.0,Annapurna Dairy & Milk Supplies
+PUR0374,2026-03-19,ING009,13.7,616.5,Kisan Sabzi Mandi Co-op
+PUR0375,2026-03-19,ING011,46.4,2598.4,Annapurna Dairy & Milk Supplies
+PUR0376,2026-03-19,ING015,15.8,2054.0,Annapurna Dairy & Milk Supplies
+PUR0377,2026-03-19,ING018,137.4,5496.0,Balaji Provisions & Grain Traders
+PUR0378,2026-03-19,ING030,21.6,756.0,Modern Bakery & Buns Supplies
+PUR0379,2026-03-19,ING031,42.4,1272.0,Modern Bakery & Buns Supplies
+PUR0380,2026-03-19,ING032,23.6,826.0,Modern Bakery & Buns Supplies
+PUR0381,2026-03-20,ING012,14.7,4704.0,Annapurna Dairy & Milk Supplies
+PUR0382,2026-03-20,ING013,18.6,1116.0,Annapurna Dairy & Milk Supplies
+PUR0383,2026-03-20,ING015,17.9,2327.0,Annapurna Dairy & Milk Supplies
+PUR0384,2026-03-20,ING017,82.4,7004.0,Balaji Provisions & Grain Traders
+PUR0385,2026-03-20,ING030,25.6,896.0,Modern Bakery & Buns Supplies
+PUR0386,2026-03-21,ING004,8.8,528.0,Kisan Sabzi Mandi Co-op
+PUR0387,2026-03-21,ING015,23.9,3107.0,Annapurna Dairy & Milk Supplies
+PUR0388,2026-03-21,ING021,68.2,9548.0,Balaji Provisions & Grain Traders
+PUR0389,2026-03-21,ING022,41.7,5421.0,Balaji Provisions & Grain Traders
+PUR0390,2026-03-22,ING003,45.8,1374.0,Kisan Sabzi Mandi Co-op
+PUR0391,2026-03-22,ING010,8.0,640.0,Kisan Sabzi Mandi Co-op
+PUR0392,2026-03-22,ING011,60.1,3365.6,Annapurna Dairy & Milk Supplies
+PUR0393,2026-03-22,ING015,15.6,2028.0,Annapurna Dairy & Milk Supplies
+PUR0394,2026-03-23,ING001,65.5,1637.5,Kisan Sabzi Mandi Co-op
+PUR0395,2026-03-23,ING019,62.7,2633.4,Balaji Provisions & Grain Traders
+PUR0396,2026-03-23,ING030,23.1,808.5,Modern Bakery & Buns Supplies
+PUR0397,2026-03-24,ING012,15.5,4960.0,Annapurna Dairy & Milk Supplies
+PUR0398,2026-03-24,ING013,19.0,1140.0,Annapurna Dairy & Milk Supplies
+PUR0399,2026-03-24,ING015,19.9,2587.0,Annapurna Dairy & Milk Supplies
+PUR0400,2026-03-24,ING029,31.7,8876.0,Swastik Oil Mills & Spices
+PUR0401,2026-03-24,ING032,27.5,962.5,Modern Bakery & Buns Supplies
+PUR0402,2026-03-25,ING007,13.5,945.0,Kisan Sabzi Mandi Co-op
+PUR0403,2026-03-25,ING010,6.2,496.0,Kisan Sabzi Mandi Co-op
+PUR0404,2026-03-25,ING011,48.3,2704.8,Annapurna Dairy & Milk Supplies
+PUR0405,2026-03-25,ING013,20.2,1212.0,Annapurna Dairy & Milk Supplies
+PUR0406,2026-03-25,ING015,23.9,3107.0,Annapurna Dairy & Milk Supplies
+PUR0407,2026-03-25,ING030,23.0,805.0,Modern Bakery & Buns Supplies
+PUR0408,2026-03-25,ING031,40.4,1212.0,Modern Bakery & Buns Supplies
+PUR0409,2026-03-26,ING002,84.7,2964.5,Kisan Sabzi Mandi Co-op
+PUR0410,2026-03-26,ING009,13.0,585.0,Kisan Sabzi Mandi Co-op
+PUR0411,2026-03-26,ING012,17.2,5504.0,Annapurna Dairy & Milk Supplies
+PUR0412,2026-03-26,ING016,117.1,5269.5,Balaji Provisions & Grain Traders
+PUR0413,2026-03-26,ING028,78.5,3297.0,Metro Wholesale Mart
+PUR0414,2026-03-27,ING001,84.7,2117.5,Kisan Sabzi Mandi Co-op
+PUR0415,2026-03-27,ING010,8.2,656.0,Kisan Sabzi Mandi Co-op
+PUR0416,2026-03-27,ING011,54.3,3040.8,Annapurna Dairy & Milk Supplies
+PUR0417,2026-03-27,ING015,20.9,2717.0,Annapurna Dairy & Milk Supplies
+PUR0418,2026-03-27,ING020,59.3,2965.0,Balaji Provisions & Grain Traders
+PUR0419,2026-03-27,ING030,23.7,829.5,Modern Bakery & Buns Supplies
+PUR0420,2026-03-28,ING013,23.3,1398.0,Annapurna Dairy & Milk Supplies
+PUR0421,2026-03-28,ING015,15.6,2028.0,Annapurna Dairy & Milk Supplies
+PUR0422,2026-03-29,ING015,15.6,2028.0,Annapurna Dairy & Milk Supplies
+PUR0423,2026-03-29,ING030,24.5,857.5,Modern Bakery & Buns Supplies
+PUR0424,2026-03-30,ING006,6.9,345.0,Kisan Sabzi Mandi Co-op
+PUR0425,2026-03-30,ING012,17.9,5728.0,Annapurna Dairy & Milk Supplies
+PUR0426,2026-03-30,ING015,22.4,2912.0,Annapurna Dairy & Milk Supplies
+PUR0427,2026-03-30,ING032,22.3,780.5,Modern Bakery & Buns Supplies
+PUR0428,2026-03-31,ING003,55.3,1659.0,Kisan Sabzi Mandi Co-op
+PUR0429,2026-03-31,ING010,8.1,648.0,Kisan Sabzi Mandi Co-op
+PUR0430,2026-03-31,ING011,45.2,2531.2,Annapurna Dairy & Milk Supplies
+PUR0431,2026-03-31,ING013,23.2,1392.0,Annapurna Dairy & Milk Supplies
+PUR0432,2026-03-31,ING014,13.2,6336.0,Annapurna Dairy & Milk Supplies
+PUR0433,2026-03-31,ING015,20.3,2639.0,Annapurna Dairy & Milk Supplies
+PUR0434,2026-03-31,ING030,29.3,1025.5,Modern Bakery & Buns Supplies
+PUR0435,2026-03-31,ING031,37.0,1110.0,Modern Bakery & Buns Supplies
+PUR0436,2026-04-01,ING001,80.4,2010.0,Kisan Sabzi Mandi Co-op
+PUR0437,2026-04-01,ING009,13.4,603.0,Kisan Sabzi Mandi Co-op
+PUR0438,2026-04-01,ING015,15.6,2028.0,Annapurna Dairy & Milk Supplies
+PUR0439,2026-04-01,ING025,86.8,11284.0,Swastik Oil Mills & Spices
+PUR0440,2026-04-01,ING030,28.7,1004.5,Modern Bakery & Buns Supplies
+PUR0441,2026-04-01,ING032,25.4,889.0,Modern Bakery & Buns Supplies
+PUR0442,2026-04-02,ING004,11.0,660.0,Kisan Sabzi Mandi Co-op
+PUR0443,2026-04-02,ING007,12.4,868.0,Kisan Sabzi Mandi Co-op
+PUR0444,2026-04-02,ING008,15.0,450.0,Kisan Sabzi Mandi Co-op
+PUR0445,2026-04-02,ING010,8.3,664.0,Kisan Sabzi Mandi Co-op
+PUR0446,2026-04-02,ING011,50.5,2828.0,Annapurna Dairy & Milk Supplies
+PUR0447,2026-04-02,ING012,20.0,6400.0,Annapurna Dairy & Milk Supplies
+PUR0448,2026-04-02,ING013,19.3,1158.0,Annapurna Dairy & Milk Supplies
+PUR0449,2026-04-02,ING015,20.3,2639.0,Annapurna Dairy & Milk Supplies
+PUR0450,2026-04-03,ING002,64.1,2243.5,Kisan Sabzi Mandi Co-op
+PUR0451,2026-04-03,ING015,18.2,2366.0,Annapurna Dairy & Milk Supplies
+PUR0452,2026-04-03,ING016,127.9,5755.5,Balaji Provisions & Grain Traders
+PUR0453,2026-04-03,ING030,25.5,892.5,Modern Bakery & Buns Supplies
+PUR0454,2026-04-03,ING031,44.0,1320.0,Modern Bakery & Buns Supplies
+PUR0455,2026-04-04,ING011,59.8,3348.8,Annapurna Dairy & Milk Supplies
+PUR0456,2026-04-04,ING015,23.8,3094.0,Annapurna Dairy & Milk Supplies
+PUR0457,2026-04-04,ING017,79.9,6791.5,Balaji Provisions & Grain Traders
+PUR0458,2026-04-05,ING013,24.3,1458.0,Annapurna Dairy & Milk Supplies
+PUR0459,2026-04-05,ING024,38.1,5143.5,Balaji Provisions & Grain Traders
+PUR0460,2026-04-06,ING001,64.3,1607.5,Kisan Sabzi Mandi Co-op
+PUR0461,2026-04-06,ING009,13.8,621.0,Kisan Sabzi Mandi Co-op
+PUR0462,2026-04-06,ING010,7.3,584.0,Kisan Sabzi Mandi Co-op
+PUR0463,2026-04-06,ING012,14.5,4640.0,Annapurna Dairy & Milk Supplies
+PUR0464,2026-04-06,ING015,16.3,2119.0,Annapurna Dairy & Milk Supplies
+PUR0465,2026-04-06,ING026,17.9,5728.0,Metro Wholesale Mart
+PUR0466,2026-04-06,ING029,31.9,8932.0,Swastik Oil Mills & Spices
+PUR0467,2026-04-06,ING032,26.9,941.5,Modern Bakery & Buns Supplies
+PUR0468,2026-04-07,ING015,18.6,2418.0,Annapurna Dairy & Milk Supplies
+PUR0469,2026-04-07,ING019,63.0,2646.0,Balaji Provisions & Grain Traders
+PUR0470,2026-04-07,ING030,28.2,987.0,Modern Bakery & Buns Supplies
+PUR0471,2026-04-08,ING007,13.3,931.0,Kisan Sabzi Mandi Co-op
+PUR0472,2026-04-08,ING010,6.5,520.0,Kisan Sabzi Mandi Co-op
+PUR0473,2026-04-08,ING011,55.4,3102.4,Annapurna Dairy & Milk Supplies
+PUR0474,2026-04-08,ING012,15.4,4928.0,Annapurna Dairy & Milk Supplies
+PUR0475,2026-04-08,ING013,18.7,1122.0,Annapurna Dairy & Milk Supplies
+PUR0476,2026-04-08,ING015,18.5,2405.0,Annapurna Dairy & Milk Supplies
+PUR0477,2026-04-08,ING030,22.9,801.5,Modern Bakery & Buns Supplies
+PUR0478,2026-04-09,ING001,70.1,1752.5,Kisan Sabzi Mandi Co-op
+PUR0479,2026-04-09,ING015,15.2,1976.0,Annapurna Dairy & Milk Supplies
+PUR0480,2026-04-09,ING030,24.9,871.5,Modern Bakery & Buns Supplies
+PUR0481,2026-04-10,ING002,73.9,2586.5,Kisan Sabzi Mandi Co-op
+PUR0482,2026-04-10,ING003,59.1,1773.0,Kisan Sabzi Mandi Co-op
+PUR0483,2026-04-10,ING011,54.6,3057.6,Annapurna Dairy & Milk Supplies
+PUR0484,2026-04-10,ING013,19.6,1176.0,Annapurna Dairy & Milk Supplies
+PUR0485,2026-04-10,ING015,19.4,2522.0,Annapurna Dairy & Milk Supplies
+PUR0486,2026-04-10,ING031,41.5,1245.0,Modern Bakery & Buns Supplies
+PUR0487,2026-04-10,ING032,25.2,882.0,Modern Bakery & Buns Supplies
+PUR0488,2026-04-11,ING010,8.8,704.0,Kisan Sabzi Mandi Co-op
+PUR0489,2026-04-11,ING012,15.3,4896.0,Annapurna Dairy & Milk Supplies
+PUR0490,2026-04-11,ING015,23.7,3081.0,Annapurna Dairy & Milk Supplies
+PUR0491,2026-04-12,ING030,22.1,773.5,Modern Bakery & Buns Supplies
+PUR0492,2026-04-13,ING001,88.8,2220.0,Kisan Sabzi Mandi Co-op
+PUR0493,2026-04-13,ING009,10.3,463.5,Kisan Sabzi Mandi Co-op
+PUR0494,2026-04-13,ING011,50.7,2839.2,Annapurna Dairy & Milk Supplies
+PUR0495,2026-04-13,ING013,21.3,1278.0,Annapurna Dairy & Milk Supplies
+PUR0496,2026-04-13,ING014,14.7,7056.0,Annapurna Dairy & Milk Supplies
+PUR0497,2026-04-13,ING015,17.1,2223.0,Annapurna Dairy & Milk Supplies
+PUR0498,2026-04-13,ING016,156.6,7047.0,Balaji Provisions & Grain Traders
+PUR0499,2026-04-14,ING012,18.9,6048.0,Annapurna Dairy & Milk Supplies
+PUR0500,2026-04-14,ING015,18.7,2431.0,Annapurna Dairy & Milk Supplies
+PUR0501,2026-04-14,ING021,50.4,7056.0,Balaji Provisions & Grain Traders
+PUR0502,2026-04-14,ING022,44.4,5772.0,Balaji Provisions & Grain Traders
+PUR0503,2026-04-14,ING025,82.1,10673.0,Swastik Oil Mills & Spices
+PUR0504,2026-04-14,ING030,26.9,941.5,Modern Bakery & Buns Supplies
+PUR0505,2026-04-15,ING007,13.4,938.0,Kisan Sabzi Mandi Co-op
+PUR0506,2026-04-15,ING008,14.6,438.0,Kisan Sabzi Mandi Co-op
+PUR0507,2026-04-15,ING010,6.4,512.0,Kisan Sabzi Mandi Co-op
+PUR0508,2026-04-15,ING011,47.3,2648.8,Annapurna Dairy & Milk Supplies
+PUR0509,2026-04-15,ING013,20.0,1200.0,Annapurna Dairy & Milk Supplies
+PUR0510,2026-04-15,ING015,21.5,2795.0,Annapurna Dairy & Milk Supplies
+PUR0511,2026-04-15,ING023,55.7,6684.0,Balaji Provisions & Grain Traders
+PUR0512,2026-04-15,ING027,15.2,9120.0,Metro Wholesale Mart
+PUR0513,2026-04-15,ING030,24.7,864.5,Modern Bakery & Buns Supplies
+PUR0514,2026-04-15,ING031,44.6,1338.0,Modern Bakery & Buns Supplies
+PUR0515,2026-04-16,ING006,5.5,275.0,Kisan Sabzi Mandi Co-op
+PUR0516,2026-04-16,ING009,12.2,549.0,Kisan Sabzi Mandi Co-op
+PUR0517,2026-04-16,ING010,7.3,584.0,Kisan Sabzi Mandi Co-op
+PUR0518,2026-04-16,ING015,16.9,2197.0,Annapurna Dairy & Milk Supplies
+PUR0519,2026-04-16,ING028,74.7,3137.4,Metro Wholesale Mart
+PUR0520,2026-04-16,ING032,23.6,826.0,Modern Bakery & Buns Supplies
+PUR0521,2026-04-17,ING002,95.2,3332.0,Kisan Sabzi Mandi Co-op
+PUR0522,2026-04-17,ING005,11.6,1392.0,Kisan Sabzi Mandi Co-op
+PUR0523,2026-04-17,ING011,61.0,3416.0,Annapurna Dairy & Milk Supplies
+PUR0524,2026-04-17,ING012,19.8,6336.0,Annapurna Dairy & Milk Supplies
+PUR0525,2026-04-17,ING013,23.5,1410.0,Annapurna Dairy & Milk Supplies
+PUR0526,2026-04-17,ING015,20.0,2600.0,Annapurna Dairy & Milk Supplies
+PUR0527,2026-04-17,ING017,84.1,7148.5,Balaji Provisions & Grain Traders
+PUR0528,2026-04-17,ING029,24.0,6720.0,Swastik Oil Mills & Spices
+PUR0529,2026-04-17,ING030,23.2,812.0,Modern Bakery & Buns Supplies
+PUR0530,2026-04-18,ING001,63.8,1595.0,Kisan Sabzi Mandi Co-op
+PUR0531,2026-04-18,ING015,17.9,2327.0,Annapurna Dairy & Milk Supplies
+PUR0532,2026-04-19,ING004,10.5,630.0,Kisan Sabzi Mandi Co-op
+PUR0533,2026-04-19,ING015,23.7,3081.0,Annapurna Dairy & Milk Supplies
+PUR0534,2026-04-20,ING010,6.7,536.0,Kisan Sabzi Mandi Co-op
+PUR0535,2026-04-20,ING015,20.3,2639.0,Annapurna Dairy & Milk Supplies
+PUR0536,2026-04-20,ING030,23.6,826.0,Modern Bakery & Buns Supplies
+PUR0537,2026-04-20,ING032,28.5,997.5,Modern Bakery & Buns Supplies
+PUR0538,2026-04-21,ING003,49.8,1494.0,Kisan Sabzi Mandi Co-op
+PUR0539,2026-04-21,ING009,12.3,553.5,Kisan Sabzi Mandi Co-op
+PUR0540,2026-04-21,ING011,45.3,2536.8,Annapurna Dairy & Milk Supplies
+PUR0541,2026-04-21,ING012,17.3,5536.0,Annapurna Dairy & Milk Supplies
+PUR0542,2026-04-21,ING013,18.7,1122.0,Annapurna Dairy & Milk Supplies
+PUR0543,2026-04-21,ING015,21.8,2834.0,Annapurna Dairy & Milk Supplies
+PUR0544,2026-04-21,ING020,51.5,2575.0,Balaji Provisions & Grain Traders
+PUR0545,2026-04-21,ING030,22.3,780.5,Modern Bakery & Buns Supplies
+PUR0546,2026-04-22,ING001,74.7,1867.5,Kisan Sabzi Mandi Co-op
+PUR0547,2026-04-22,ING007,13.0,910.0,Kisan Sabzi Mandi Co-op
+PUR0548,2026-04-22,ING010,8.7,696.0,Kisan Sabzi Mandi Co-op
+PUR0549,2026-04-22,ING013,24.7,1482.0,Annapurna Dairy & Milk Supplies
+PUR0550,2026-04-22,ING015,17.4,2262.0,Annapurna Dairy & Milk Supplies
+PUR0551,2026-04-22,ING030,25.4,889.0,Modern Bakery & Buns Supplies
+PUR0552,2026-04-22,ING031,42.2,1266.0,Modern Bakery & Buns Supplies
+PUR0553,2026-04-23,ING011,58.8,3292.8,Annapurna Dairy & Milk Supplies
+PUR0554,2026-04-23,ING012,15.9,5088.0,Annapurna Dairy & Milk Supplies
+PUR0555,2026-04-23,ING015,16.3,2119.0,Annapurna Dairy & Milk Supplies
+PUR0556,2026-04-23,ING019,94.3,3960.6,Balaji Provisions & Grain Traders
+PUR0557,2026-04-24,ING015,15.5,2015.0,Annapurna Dairy & Milk Supplies
+PUR0558,2026-04-24,ING016,114.8,5166.0,Balaji Provisions & Grain Traders
+PUR0559,2026-04-24,ING018,120.7,4828.0,Balaji Provisions & Grain Traders
+PUR0560,2026-04-24,ING025,89.7,11661.0,Swastik Oil Mills & Spices
+PUR0561,2026-04-24,ING030,28.5,997.5,Modern Bakery & Buns Supplies
+PUR0562,2026-04-24,ING032,25.7,899.5,Modern Bakery & Buns Supplies
+PUR0563,2026-04-25,ING015,16.3,2119.0,Annapurna Dairy & Milk Supplies
+PUR0564,2026-04-26,ING009,11.4,513.0,Kisan Sabzi Mandi Co-op
+PUR0565,2026-04-26,ING010,7.0,560.0,Kisan Sabzi Mandi Co-op
+PUR0566,2026-04-26,ING011,62.2,3483.2,Annapurna Dairy & Milk Supplies
+PUR0567,2026-04-26,ING012,17.8,5696.0,Annapurna Dairy & Milk Supplies
+PUR0568,2026-04-26,ING013,21.8,1308.0,Annapurna Dairy & Milk Supplies
+PUR0569,2026-04-26,ING015,22.4,2912.0,Annapurna Dairy & Milk Supplies
+PUR0570,2026-04-27,ING001,79.4,1985.0,Kisan Sabzi Mandi Co-op
+PUR0571,2026-04-27,ING008,17.7,531.0,Kisan Sabzi Mandi Co-op
+PUR0572,2026-04-27,ING014,17.0,8160.0,Annapurna Dairy & Milk Supplies
+PUR0573,2026-04-27,ING026,16.1,5152.0,Metro Wholesale Mart
+PUR0574,2026-04-27,ING029,28.8,8064.0,Swastik Oil Mills & Spices
+PUR0575,2026-04-28,ING002,90.1,3153.5,Kisan Sabzi Mandi Co-op
+PUR0576,2026-04-28,ING015,16.8,2184.0,Annapurna Dairy & Milk Supplies
+PUR0577,2026-04-28,ING030,28.3,990.5,Modern Bakery & Buns Supplies
+PUR0578,2026-04-28,ING031,36.0,1080.0,Modern Bakery & Buns Supplies
+PUR0579,2026-04-28,ING032,28.2,987.0,Modern Bakery & Buns Supplies
+PUR0580,2026-04-29,ING007,12.1,847.0,Kisan Sabzi Mandi Co-op
+PUR0581,2026-04-29,ING010,8.5,680.0,Kisan Sabzi Mandi Co-op
+PUR0582,2026-04-29,ING011,45.2,2531.2,Annapurna Dairy & Milk Supplies
+PUR0583,2026-04-29,ING012,15.9,5088.0,Annapurna Dairy & Milk Supplies
+PUR0584,2026-04-29,ING013,19.0,1140.0,Annapurna Dairy & Milk Supplies
+PUR0585,2026-04-29,ING015,15.2,1976.0,Annapurna Dairy & Milk Supplies
+PUR0586,2026-04-30,ING003,53.0,1590.0,Kisan Sabzi Mandi Co-op
+PUR0587,2026-04-30,ING015,21.9,2847.0,Annapurna Dairy & Milk Supplies
+PUR0588,2026-04-30,ING030,22.3,780.5,Modern Bakery & Buns Supplies
+PUR0589,2026-05-01,ING001,73.9,1847.5,Kisan Sabzi Mandi Co-op
+PUR0590,2026-05-01,ING006,7.3,365.0,Kisan Sabzi Mandi Co-op
+PUR0591,2026-05-01,ING009,10.7,481.5,Kisan Sabzi Mandi Co-op
+PUR0592,2026-05-01,ING011,56.0,3136.0,Annapurna Dairy & Milk Supplies
+PUR0593,2026-05-01,ING012,17.5,5600.0,Annapurna Dairy & Milk Supplies
+PUR0594,2026-05-01,ING013,22.2,1332.0,Annapurna Dairy & Milk Supplies
+PUR0595,2026-05-01,ING015,21.8,2834.0,Annapurna Dairy & Milk Supplies
+PUR0596,2026-05-01,ING021,53.2,7448.0,Balaji Provisions & Grain Traders
+PUR0597,2026-05-01,ING030,23.9,836.5,Modern Bakery & Buns Supplies
+PUR0598,2026-05-02,ING010,6.8,544.0,Kisan Sabzi Mandi Co-op
+PUR0599,2026-05-02,ING017,89.0,7565.0,Balaji Provisions & Grain Traders
+PUR0600,2026-05-02,ING032,25.4,889.0,Modern Bakery & Buns Supplies
+PUR0601,2026-05-03,ING015,16.5,2145.0,Annapurna Dairy & Milk Supplies
+PUR0602,2026-05-04,ING004,8.5,510.0,Kisan Sabzi Mandi Co-op
+PUR0603,2026-05-04,ING015,23.6,3068.0,Annapurna Dairy & Milk Supplies
+PUR0604,2026-05-04,ING016,107.4,4833.0,Balaji Provisions & Grain Traders
+PUR0605,2026-05-04,ING030,28.9,1011.5,Modern Bakery & Buns Supplies
+PUR0606,2026-05-04,ING031,39.4,1182.0,Modern Bakery & Buns Supplies
+PUR0607,2026-05-05,ING001,71.1,1777.5,Kisan Sabzi Mandi Co-op
+PUR0608,2026-05-05,ING007,11.6,812.0,Kisan Sabzi Mandi Co-op
+PUR0609,2026-05-05,ING010,8.2,656.0,Kisan Sabzi Mandi Co-op
+PUR0610,2026-05-05,ING011,54.6,3057.6,Annapurna Dairy & Milk Supplies
+PUR0611,2026-05-05,ING012,17.9,5728.0,Annapurna Dairy & Milk Supplies
+PUR0612,2026-05-05,ING013,22.5,1350.0,Annapurna Dairy & Milk Supplies
+PUR0613,2026-05-05,ING015,18.6,2418.0,Annapurna Dairy & Milk Supplies
+PUR0614,2026-05-06,ING009,11.6,522.0,Kisan Sabzi Mandi Co-op
+PUR0615,2026-05-06,ING013,23.9,1434.0,Annapurna Dairy & Milk Supplies
+PUR0616,2026-05-06,ING015,15.3,1989.0,Annapurna Dairy & Milk Supplies
+PUR0617,2026-05-06,ING030,24.0,840.0,Modern Bakery & Buns Supplies
+PUR0618,2026-05-07,ING002,83.7,2929.5,Kisan Sabzi Mandi Co-op
+PUR0619,2026-05-07,ING010,7.7,616.0,Kisan Sabzi Mandi Co-op
+PUR0620,2026-05-07,ING011,60.5,3388.0,Annapurna Dairy & Milk Supplies
+PUR0621,2026-05-07,ING012,14.7,4704.0,Annapurna Dairy & Milk Supplies
+PUR0622,2026-05-07,ING015,21.5,2795.0,Annapurna Dairy & Milk Supplies
+PUR0623,2026-05-07,ING025,80.9,10517.0,Swastik Oil Mills & Spices
+PUR0624,2026-05-07,ING028,64.9,2725.8,Metro Wholesale Mart
+PUR0625,2026-05-07,ING029,20.8,5824.0,Swastik Oil Mills & Spices
+PUR0626,2026-05-07,ING030,22.9,801.5,Modern Bakery & Buns Supplies
+PUR0627,2026-05-07,ING032,26.0,910.0,Modern Bakery & Buns Supplies
+PUR0628,2026-05-08,ING013,24.6,1476.0,Annapurna Dairy & Milk Supplies
+PUR0629,2026-05-08,ING015,17.1,2223.0,Annapurna Dairy & Milk Supplies
+PUR0630,2026-05-08,ING031,41.9,1257.0,Modern Bakery & Buns Supplies
+PUR0631,2026-05-09,ING001,89.2,2230.0,Kisan Sabzi Mandi Co-op
+PUR0632,2026-05-09,ING030,24.4,854.0,Modern Bakery & Buns Supplies
+PUR0633,2026-05-11,ING003,48.3,1449.0,Kisan Sabzi Mandi Co-op
+PUR0634,2026-05-11,ING010,8.3,664.0,Kisan Sabzi Mandi Co-op
+PUR0635,2026-05-11,ING011,53.6,3001.6,Annapurna Dairy & Milk Supplies
+PUR0636,2026-05-11,ING012,17.5,5600.0,Annapurna Dairy & Milk Supplies
+PUR0637,2026-05-11,ING015,19.7,2561.0,Annapurna Dairy & Milk Supplies
+PUR0638,2026-05-11,ING016,138.5,6232.5,Balaji Provisions & Grain Traders
+PUR0639,2026-05-11,ING022,46.4,6032.0,Balaji Provisions & Grain Traders
+PUR0640,2026-05-12,ING007,10.8,756.0,Kisan Sabzi Mandi Co-op
+PUR0641,2026-05-12,ING008,16.9,507.0,Kisan Sabzi Mandi Co-op
+PUR0642,2026-05-12,ING009,14.1,634.5,Kisan Sabzi Mandi Co-op
+PUR0643,2026-05-12,ING013,21.1,1266.0,Annapurna Dairy & Milk Supplies
+PUR0644,2026-05-12,ING015,16.0,2080.0,Annapurna Dairy & Milk Supplies
+PUR0645,2026-05-12,ING020,58.0,2900.0,Balaji Provisions & Grain Traders
+PUR0646,2026-05-12,ING030,23.8,833.0,Modern Bakery & Buns Supplies
+PUR0647,2026-05-12,ING032,23.6,826.0,Modern Bakery & Buns Supplies
+PUR0648,2026-05-13,ING015,20.8,2704.0,Annapurna Dairy & Milk Supplies
+PUR0649,2026-05-14,ING010,7.7,616.0,Kisan Sabzi Mandi Co-op
+PUR0650,2026-05-14,ING011,45.9,2570.4,Annapurna Dairy & Milk Supplies
+PUR0651,2026-05-14,ING012,19.1,6112.0,Annapurna Dairy & Milk Supplies
+PUR0652,2026-05-14,ING013,19.6,1176.0,Annapurna Dairy & Milk Supplies
+PUR0653,2026-05-14,ING014,12.8,6144.0,Annapurna Dairy & Milk Supplies
+PUR0654,2026-05-14,ING015,17.0,2210.0,Annapurna Dairy & Milk Supplies
+PUR0655,2026-05-14,ING030,23.6,826.0,Modern Bakery & Buns Supplies
+PUR0656,2026-05-14,ING031,34.3,1029.0,Modern Bakery & Buns Supplies
+PUR0657,2026-05-15,ING001,86.1,2152.5,Kisan Sabzi Mandi Co-op
+PUR0658,2026-05-15,ING004,10.0,600.0,Kisan Sabzi Mandi Co-op
+PUR0659,2026-05-15,ING005,11.6,1392.0,Kisan Sabzi Mandi Co-op
+PUR0660,2026-05-15,ING015,21.8,2834.0,Annapurna Dairy & Milk Supplies
+PUR0661,2026-05-15,ING029,28.0,7840.0,Swastik Oil Mills & Spices
+PUR0662,2026-05-15,ING030,21.8,763.0,Modern Bakery & Buns Supplies
+PUR0663,2026-05-16,ING011,58.4,3270.4,Annapurna Dairy & Milk Supplies
+PUR0664,2026-05-17,ING002,81.0,2835.0,Kisan Sabzi Mandi Co-op
+PUR0665,2026-05-17,ING013,22.7,1362.0,Annapurna Dairy & Milk Supplies
+PUR0666,2026-05-17,ING024,42.5,5737.5,Balaji Provisions & Grain Traders
+PUR0667,2026-05-17,ING032,26.2,917.0,Modern Bakery & Buns Supplies
+PUR0668,2026-05-18,ING007,10.2,714.0,Kisan Sabzi Mandi Co-op
+PUR0669,2026-05-18,ING009,12.9,580.5,Kisan Sabzi Mandi Co-op
+PUR0670,2026-05-18,ING010,6.6,528.0,Kisan Sabzi Mandi Co-op
+PUR0671,2026-05-18,ING012,17.7,5664.0,Annapurna Dairy & Milk Supplies
+PUR0672,2026-05-18,ING015,15.1,1963.0,Annapurna Dairy & Milk Supplies
+PUR0673,2026-05-18,ING026,21.3,6816.0,Metro Wholesale Mart
+PUR0674,2026-05-18,ING027,13.5,8100.0,Metro Wholesale Mart
+PUR0675,2026-05-18,ING030,24.7,864.5,Modern Bakery & Buns Supplies
+PUR0676,2026-05-19,ING011,60.7,3399.2,Annapurna Dairy & Milk Supplies
+PUR0677,2026-05-19,ING015,16.5,2145.0,Annapurna Dairy & Milk Supplies
+PUR0678,2026-05-19,ING017,70.5,5992.5,Balaji Provisions & Grain Traders
+PUR0679,2026-05-19,ING019,82.6,3469.2,Balaji Provisions & Grain Traders
+PUR0680,2026-05-20,ING001,87.5,2187.5,Kisan Sabzi Mandi Co-op
+PUR0681,2026-05-20,ING003,54.9,1647.0,Kisan Sabzi Mandi Co-op
+PUR0682,2026-05-20,ING010,6.8,544.0,Kisan Sabzi Mandi Co-op
+PUR0683,2026-05-20,ING013,21.9,1314.0,Annapurna Dairy & Milk Supplies
+PUR0684,2026-05-20,ING015,19.6,2548.0,Annapurna Dairy & Milk Supplies
+PUR0685,2026-05-20,ING025,82.2,10686.0,Swastik Oil Mills & Spices
+PUR0686,2026-05-20,ING030,23.3,815.5,Modern Bakery & Buns Supplies
+PUR0687,2026-05-20,ING031,40.1,1203.0,Modern Bakery & Buns Supplies
+PUR0688,2026-05-21,ING012,16.3,5216.0,Annapurna Dairy & Milk Supplies
+PUR0689,2026-05-21,ING015,17.9,2327.0,Annapurna Dairy & Milk Supplies
+PUR0690,2026-05-21,ING016,115.6,5202.0,Balaji Provisions & Grain Traders
+PUR0691,2026-05-21,ING021,53.6,7504.0,Balaji Provisions & Grain Traders
+PUR0692,2026-05-21,ING030,24.0,840.0,Modern Bakery & Buns Supplies
+PUR0693,2026-05-21,ING032,21.8,763.0,Modern Bakery & Buns Supplies
+PUR0694,2026-05-22,ING006,6.7,335.0,Kisan Sabzi Mandi Co-op
+PUR0695,2026-05-22,ING007,13.3,931.0,Kisan Sabzi Mandi Co-op
+PUR0696,2026-05-22,ING009,12.6,567.0,Kisan Sabzi Mandi Co-op
+PUR0697,2026-05-22,ING010,7.2,576.0,Kisan Sabzi Mandi Co-op
+PUR0698,2026-05-22,ING011,48.2,2699.2,Annapurna Dairy & Milk Supplies
+PUR0699,2026-05-22,ING013,18.3,1098.0,Annapurna Dairy & Milk Supplies
+PUR0700,2026-05-22,ING015,22.2,2886.0,Annapurna Dairy & Milk Supplies
+PUR0701,2026-05-23,ING015,21.7,2821.0,Annapurna Dairy & Milk Supplies
+PUR0702,2026-05-24,ING012,19.3,6176.0,Annapurna Dairy & Milk Supplies
+PUR0703,2026-05-24,ING030,23.3,815.5,Modern Bakery & Buns Supplies
+PUR0704,2026-05-25,ING010,7.7,616.0,Kisan Sabzi Mandi Co-op
+PUR0705,2026-05-25,ING011,58.1,3253.6,Annapurna Dairy & Milk Supplies
+PUR0706,2026-05-25,ING013,23.8,1428.0,Annapurna Dairy & Milk Supplies
+PUR0707,2026-05-25,ING015,21.1,2743.0,Annapurna Dairy & Milk Supplies
+PUR0708,2026-05-25,ING028,95.7,4019.4,Metro Wholesale Mart
+PUR0709,2026-05-25,ING032,28.5,997.5,Modern Bakery & Buns Supplies
+PUR0710,2026-05-26,ING001,70.8,1770.0,Kisan Sabzi Mandi Co-op
+PUR0711,2026-05-26,ING002,64.5,2257.5,Kisan Sabzi Mandi Co-op
+PUR0712,2026-05-26,ING015,20.6,2678.0,Annapurna Dairy & Milk Supplies
+PUR0713,2026-05-26,ING018,117.3,4692.0,Balaji Provisions & Grain Traders
+PUR0714,2026-05-26,ING030,29.0,1015.0,Modern Bakery & Buns Supplies
+PUR0715,2026-05-26,ING031,35.6,1068.0,Modern Bakery & Buns Supplies
+PUR0716,2026-05-27,ING008,15.1,453.0,Kisan Sabzi Mandi Co-op
+PUR0717,2026-05-27,ING010,6.9,552.0,Kisan Sabzi Mandi Co-op
+PUR0718,2026-05-27,ING011,48.8,2732.8,Annapurna Dairy & Milk Supplies
+PUR0719,2026-05-27,ING012,15.4,4928.0,Annapurna Dairy & Milk Supplies
+PUR0720,2026-05-27,ING013,20.3,1218.0,Annapurna Dairy & Milk Supplies
+PUR0721,2026-05-27,ING015,19.5,2535.0,Annapurna Dairy & Milk Supplies
+PUR0722,2026-05-27,ING029,28.6,8008.0,Swastik Oil Mills & Spices
+PUR0723,2026-05-28,ING009,13.6,612.0,Kisan Sabzi Mandi Co-op
+PUR0724,2026-05-28,ING014,15.9,7632.0,Annapurna Dairy & Milk Supplies
+PUR0725,2026-05-28,ING015,18.5,2405.0,Annapurna Dairy & Milk Supplies
+PUR0726,2026-05-28,ING030,27.9,976.5,Modern Bakery & Buns Supplies
+PUR0727,2026-05-29,ING001,87.6,2190.0,Kisan Sabzi Mandi Co-op
+PUR0728,2026-05-29,ING007,12.4,868.0,Kisan Sabzi Mandi Co-op
+PUR0729,2026-05-29,ING010,7.8,624.0,Kisan Sabzi Mandi Co-op
+PUR0730,2026-05-29,ING011,58.9,3298.4,Annapurna Dairy & Milk Supplies
+PUR0731,2026-05-29,ING012,18.1,5792.0,Annapurna Dairy & Milk Supplies
+PUR0732,2026-05-29,ING013,24.6,1476.0,Annapurna Dairy & Milk Supplies
+PUR0733,2026-05-29,ING015,15.7,2041.0,Annapurna Dairy & Milk Supplies
+PUR0734,2026-05-29,ING016,106.4,4788.0,Balaji Provisions & Grain Traders
+PUR0735,2026-05-29,ING030,21.6,756.0,Modern Bakery & Buns Supplies
+PUR0736,2026-05-29,ING032,21.9,766.5,Modern Bakery & Buns Supplies
+PUR0737,2026-05-30,ING004,8.2,492.0,Kisan Sabzi Mandi Co-op
+PUR0738,2026-05-30,ING015,15.1,1963.0,Annapurna Dairy & Milk Supplies
+PUR0739,2026-05-30,ING031,35.9,1077.0,Modern Bakery & Buns Supplies
+PUR0740,2026-05-31,ING003,40.0,1200.0,Kisan Sabzi Mandi Co-op
+PUR0741,2026-05-31,ING015,19.0,2470.0,Annapurna Dairy & Milk Supplies
+PUR0742,2026-06-01,ING015,21.6,2808.0,Annapurna Dairy & Milk Supplies
+PUR0743,2026-06-01,ING017,98.5,8372.5,Balaji Provisions & Grain Traders
+PUR0744,2026-06-01,ING025,79.4,10322.0,Swastik Oil Mills & Spices
+PUR0745,2026-06-01,ING030,24.7,864.5,Modern Bakery & Buns Supplies
+PUR0746,2026-06-02,ING002,86.7,3034.5,Kisan Sabzi Mandi Co-op
+PUR0747,2026-06-02,ING010,8.9,712.0,Kisan Sabzi Mandi Co-op
+PUR0748,2026-06-02,ING011,58.0,3248.0,Annapurna Dairy & Milk Supplies
+PUR0749,2026-06-02,ING013,20.6,1236.0,Annapurna Dairy & Milk Supplies
+PUR0750,2026-06-02,ING015,17.5,2275.0,Annapurna Dairy & Milk Supplies
+PUR0751,2026-06-02,ING032,27.1,948.5,Modern Bakery & Buns Supplies
+PUR0752,2026-06-03,ING009,11.5,517.5,Kisan Sabzi Mandi Co-op
+PUR0753,2026-06-03,ING012,14.6,4672.0,Annapurna Dairy & Milk Supplies
+PUR0754,2026-06-03,ING015,16.1,2093.0,Annapurna Dairy & Milk Supplies
+PUR0755,2026-06-03,ING030,22.8,798.0,Modern Bakery & Buns Supplies
+PUR0756,2026-06-04,ING001,73.7,1842.5,Kisan Sabzi Mandi Co-op
+PUR0757,2026-06-04,ING007,14.7,1029.0,Kisan Sabzi Mandi Co-op
+PUR0758,2026-06-04,ING010,8.9,712.0,Kisan Sabzi Mandi Co-op
+PUR0759,2026-06-04,ING013,24.4,1464.0,Annapurna Dairy & Milk Supplies
+PUR0760,2026-06-04,ING015,16.1,2093.0,Annapurna Dairy & Milk Supplies
+PUR0761,2026-06-04,ING020,51.8,2590.0,Balaji Provisions & Grain Traders
+PUR0762,2026-06-04,ING030,29.6,1036.0,Modern Bakery & Buns Supplies
+PUR0763,2026-06-04,ING031,42.4,1272.0,Modern Bakery & Buns Supplies
+PUR0764,2026-06-05,ING011,60.4,3382.4,Annapurna Dairy & Milk Supplies
+PUR0765,2026-06-05,ING012,19.6,6272.0,Annapurna Dairy & Milk Supplies
+PUR0766,2026-06-05,ING015,16.6,2158.0,Annapurna Dairy & Milk Supplies
+PUR0767,2026-06-05,ING016,106.8,4806.0,Balaji Provisions & Grain Traders
+PUR0768,2026-06-05,ING023,53.8,6456.0,Balaji Provisions & Grain Traders
+PUR0769,2026-06-06,ING015,19.1,2483.0,Annapurna Dairy & Milk Supplies
+PUR0770,2026-06-06,ING032,29.0,1015.0,Modern Bakery & Buns Supplies
+PUR0771,2026-06-07,ING029,28.3,7924.0,Swastik Oil Mills & Spices
+PUR0772,2026-06-08,ING003,45.5,1365.0,Kisan Sabzi Mandi Co-op
+PUR0773,2026-06-08,ING008,12.1,363.0,Kisan Sabzi Mandi Co-op
+PUR0774,2026-06-08,ING009,12.8,576.0,Kisan Sabzi Mandi Co-op
+PUR0775,2026-06-08,ING010,6.2,496.0,Kisan Sabzi Mandi Co-op
+PUR0776,2026-06-08,ING013,22.8,1368.0,Annapurna Dairy & Milk Supplies
+PUR0777,2026-06-08,ING015,16.9,2197.0,Annapurna Dairy & Milk Supplies
+PUR0778,2026-06-08,ING022,46.4,6032.0,Balaji Provisions & Grain Traders
+PUR0779,2026-06-08,ING030,24.8,868.0,Modern Bakery & Buns Supplies
+PUR0780,2026-06-09,ING001,61.1,1527.5,Kisan Sabzi Mandi Co-op
+PUR0781,2026-06-09,ING011,52.6,2945.6,Annapurna Dairy & Milk Supplies
+PUR0782,2026-06-09,ING012,17.0,5440.0,Annapurna Dairy & Milk Supplies
+PUR0783,2026-06-09,ING015,16.6,2158.0,Annapurna Dairy & Milk Supplies
+PUR0784,2026-06-09,ING021,50.4,7056.0,Balaji Provisions & Grain Traders
+PUR0785,2026-06-09,ING030,29.1,1018.5,Modern Bakery & Buns Supplies
+PUR0786,2026-06-10,ING002,87.1,3048.5,Kisan Sabzi Mandi Co-op
+PUR0787,2026-06-10,ING006,7.4,370.0,Kisan Sabzi Mandi Co-op
+PUR0788,2026-06-10,ING010,8.6,688.0,Kisan Sabzi Mandi Co-op
+PUR0789,2026-06-10,ING013,23.0,1380.0,Annapurna Dairy & Milk Supplies
+PUR0790,2026-06-10,ING015,21.5,2795.0,Annapurna Dairy & Milk Supplies
+PUR0791,2026-06-10,ING019,70.1,2944.2,Balaji Provisions & Grain Traders
+PUR0792,2026-06-10,ING031,35.8,1074.0,Modern Bakery & Buns Supplies
+PUR0793,2026-06-11,ING004,10.7,642.0,Kisan Sabzi Mandi Co-op
+PUR0794,2026-06-11,ING012,19.8,6336.0,Annapurna Dairy & Milk Supplies
+PUR0795,2026-06-11,ING015,16.7,2171.0,Annapurna Dairy & Milk Supplies
+PUR0796,2026-06-11,ING030,27.4,959.0,Modern Bakery & Buns Supplies
+PUR0797,2026-06-12,ING001,84.3,2107.5,Kisan Sabzi Mandi Co-op
+PUR0798,2026-06-12,ING005,15.0,1800.0,Kisan Sabzi Mandi Co-op
+PUR0799,2026-06-12,ING007,10.2,714.0,Kisan Sabzi Mandi Co-op
+PUR0800,2026-06-12,ING011,54.9,3074.4,Annapurna Dairy & Milk Supplies
+PUR0801,2026-06-12,ING013,24.0,1440.0,Annapurna Dairy & Milk Supplies
+PUR0802,2026-06-12,ING015,20.0,2600.0,Annapurna Dairy & Milk Supplies
+PUR0803,2026-06-12,ING025,106.6,13858.0,Swastik Oil Mills & Spices
+PUR0804,2026-06-12,ING026,22.1,7072.0,Metro Wholesale Mart
+PUR0805,2026-06-12,ING032,27.6,966.0,Modern Bakery & Buns Supplies
+PUR0806,2026-06-13,ING015,21.7,2821.0,Annapurna Dairy & Milk Supplies
+PUR0807,2026-06-14,ING009,11.4,513.0,Kisan Sabzi Mandi Co-op
+PUR0808,2026-06-15,ING010,6.3,504.0,Kisan Sabzi Mandi Co-op
+PUR0809,2026-06-15,ING011,51.4,2878.4,Annapurna Dairy & Milk Supplies
+PUR0810,2026-06-15,ING014,18.7,8976.0,Annapurna Dairy & Milk Supplies
+PUR0811,2026-06-15,ING015,19.9,2587.0,Annapurna Dairy & Milk Supplies
+PUR0812,2026-06-15,ING016,122.4,5508.0,Balaji Provisions & Grain Traders
+PUR0813,2026-06-15,ING030,29.2,1022.0,Modern Bakery & Buns Supplies
+PUR0814,2026-06-16,ING003,54.5,1635.0,Kisan Sabzi Mandi Co-op
+PUR0815,2026-06-16,ING012,17.4,5568.0,Annapurna Dairy & Milk Supplies
+PUR0816,2026-06-16,ING013,20.2,1212.0,Annapurna Dairy & Milk Supplies
+PUR0817,2026-06-16,ING015,20.8,2704.0,Annapurna Dairy & Milk Supplies
+PUR0818,2026-06-16,ING030,25.0,875.0,Modern Bakery & Buns Supplies
+PUR0819,2026-06-16,ING031,39.7,1191.0,Modern Bakery & Buns Supplies
+PUR0820,2026-06-17,ING001,71.2,1780.0,Kisan Sabzi Mandi Co-op
+PUR0821,2026-06-17,ING010,9.0,720.0,Kisan Sabzi Mandi Co-op
+PUR0822,2026-06-17,ING015,21.9,2847.0,Annapurna Dairy & Milk Supplies
+PUR0823,2026-06-17,ING027,10.9,6540.0,Metro Wholesale Mart
+PUR0824,2026-06-17,ING032,27.3,955.5,Modern Bakery & Buns Supplies
+PUR0825,2026-06-18,ING007,14.4,1008.0,Kisan Sabzi Mandi Co-op
+PUR0826,2026-06-18,ING008,16.1,483.0,Kisan Sabzi Mandi Co-op
+PUR0827,2026-06-18,ING009,12.0,540.0,Kisan Sabzi Mandi Co-op
+PUR0828,2026-06-18,ING011,61.8,3460.8,Annapurna Dairy & Milk Supplies
+PUR0829,2026-06-18,ING013,18.6,1116.0,Annapurna Dairy & Milk Supplies
+PUR0830,2026-06-18,ING015,17.3,2249.0,Annapurna Dairy & Milk Supplies
+PUR0831,2026-06-18,ING017,67.7,5754.5,Balaji Provisions & Grain Traders
+PUR0832,2026-06-18,ING029,31.1,8708.0,Swastik Oil Mills & Spices
+PUR0833,2026-06-18,ING030,27.0,945.0,Modern Bakery & Buns Supplies
+PUR0834,2026-06-19,ING002,79.4,2779.0,Kisan Sabzi Mandi Co-op
+PUR0835,2026-06-19,ING012,17.4,5568.0,Annapurna Dairy & Milk Supplies
+PUR0836,2026-06-19,ING013,22.8,1368.0,Annapurna Dairy & Milk Supplies
+PUR0837,2026-06-19,ING015,23.0,2990.0,Annapurna Dairy & Milk Supplies
+PUR0838,2026-06-19,ING031,36.7,1101.0,Modern Bakery & Buns Supplies
+PUR0839,2026-06-20,ING010,8.8,704.0,Kisan Sabzi Mandi Co-op
+PUR0840,2026-06-21,ING011,62.2,3483.2,Annapurna Dairy & Milk Supplies
+PUR0841,2026-06-21,ING015,16.3,2119.0,Annapurna Dairy & Milk Supplies
+PUR0842,2026-06-22,ING001,70.2,1755.0,Kisan Sabzi Mandi Co-op
+PUR0843,2026-06-22,ING012,17.9,5728.0,Annapurna Dairy & Milk Supplies
+PUR0844,2026-06-22,ING015,21.7,2821.0,Annapurna Dairy & Milk Supplies
+PUR0845,2026-06-22,ING028,94.4,3964.8,Metro Wholesale Mart
+PUR0846,2026-06-22,ING030,26.4,924.0,Modern Bakery & Buns Supplies
+PUR0847,2026-06-22,ING032,29.8,1043.0,Modern Bakery & Buns Supplies
+PUR0848,2026-06-23,ING010,8.4,672.0,Kisan Sabzi Mandi Co-op
+PUR0849,2026-06-23,ING013,23.8,1428.0,Annapurna Dairy & Milk Supplies
+PUR0850,2026-06-23,ING016,123.8,5571.0,Balaji Provisions & Grain Traders
+PUR0851,2026-06-23,ING030,28.5,997.5,Modern Bakery & Buns Supplies
+PUR0852,2026-06-24,ING009,14.4,648.0,Kisan Sabzi Mandi Co-op
+PUR0853,2026-06-24,ING011,62.3,3488.8,Annapurna Dairy & Milk Supplies
+PUR0854,2026-06-24,ING015,19.9,2587.0,Annapurna Dairy & Milk Supplies
+PUR0855,2026-06-24,ING031,38.9,1167.0,Modern Bakery & Buns Supplies
+PUR0856,2026-06-25,ING001,77.3,1932.5,Kisan Sabzi Mandi Co-op
+PUR0857,2026-06-25,ING012,15.8,5056.0,Annapurna Dairy & Milk Supplies
+PUR0858,2026-06-25,ING013,21.9,1314.0,Annapurna Dairy & Milk Supplies
+PUR0859,2026-06-25,ING015,23.5,3055.0,Annapurna Dairy & Milk Supplies
+PUR0860,2026-06-25,ING030,27.8,973.0,Modern Bakery & Buns Supplies
+PUR0861,2026-06-26,ING003,53.7,1611.0,Kisan Sabzi Mandi Co-op
+PUR0862,2026-06-26,ING004,11.2,672.0,Kisan Sabzi Mandi Co-op
+PUR0863,2026-06-26,ING007,12.4,868.0,Kisan Sabzi Mandi Co-op
+PUR0864,2026-06-26,ING010,7.0,560.0,Kisan Sabzi Mandi Co-op
+PUR0865,2026-06-26,ING015,22.5,2925.0,Annapurna Dairy & Milk Supplies
+PUR0866,2026-06-26,ING018,107.1,4284.0,Balaji Provisions & Grain Traders
+PUR0867,2026-06-26,ING020,58.6,2930.0,Balaji Provisions & Grain Traders
+PUR0868,2026-06-26,ING021,65.7,9198.0,Balaji Provisions & Grain Traders
+PUR0869,2026-06-26,ING032,28.5,997.5,Modern Bakery & Buns Supplies
+PUR0870,2026-06-27,ING015,17.0,2210.0,Annapurna Dairy & Milk Supplies
+PUR0871,2026-06-28,ING002,75.7,2649.5,Kisan Sabzi Mandi Co-op
+PUR0872,2026-06-28,ING011,52.1,2917.6,Annapurna Dairy & Milk Supplies
+PUR0873,2026-06-28,ING013,23.3,1398.0,Annapurna Dairy & Milk Supplies
+PUR0874,2026-06-28,ING025,79.8,10374.0,Swastik Oil Mills & Spices
+PUR0875,2026-06-28,ING030,27.0,945.0,Modern Bakery & Buns Supplies
+PUR0876,2026-06-29,ING010,7.4,592.0,Kisan Sabzi Mandi Co-op
+PUR0877,2026-06-29,ING012,19.1,6112.0,Annapurna Dairy & Milk Supplies
+PUR0878,2026-06-29,ING019,96.1,4036.2,Balaji Provisions & Grain Traders
+PUR0879,2026-06-29,ING031,34.8,1044.0,Modern Bakery & Buns Supplies

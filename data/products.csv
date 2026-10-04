@@ -1,0 +1,23 @@
+product_id,product_name,category,selling_price,unit_cost
+P001,Masala Chai,Beverages,15.0,5.5
+P002,Filter Coffee,Beverages,20.0,7.2
+P003,Sweet Lassi,Beverages,35.0,14.5
+P004,Fresh Lime Soda,Beverages,25.0,7.8
+P005,Samosa,Snacks,15.0,6.2
+P006,Vada Pav,Snacks,20.0,8.1
+P007,Poha,Breakfast,25.0,9.2
+P008,Masala Dosa,Breakfast,50.0,17.5
+P009,Idli Sambar,Breakfast,40.0,13.8
+P010,Chole Bhature,Breakfast,60.0,21.5
+P011,Bread Pakora,Snacks,20.0,7.5
+P012,Veg Thali,Meals,80.0,31.0
+P013,Rajma Chawal,Meals,60.0,20.5
+P014,Dal Khichdi,Meals,50.0,16.0
+P015,Paneer Butter Masala,Meals,90.0,35.0
+P016,Paneer Pulao,Meals,75.0,27.5
+P017,Veg Biryani,Meals,70.0,25.0
+P018,Veg Fried Rice,Meals,60.0,21.0
+P019,Aloo Tikki Burger,Fast Food,45.0,16.0
+P020,Veg Cheese Burger,Fast Food,60.0,23.5
+P021,Paneer Roll,Fast Food,65.0,24.0
+P022,Veg Cutlet,Snacks,25.0,9.0

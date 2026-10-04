@@ -1,0 +1,33 @@
+ingredient_id,ingredient_name,unit,purchase_cost,shelf_life_days,reorder_level
+ING001,Potatoes,kg,25.0,15,30.0
+ING002,Onions,kg,35.0,20,25.0
+ING003,Tomatoes,kg,30.0,6,20.0
+ING004,Green Chillies,kg,60.0,7,4.0
+ING005,Ginger Garlic Paste,kg,120.0,15,5.0
+ING006,Coriander Leaves,kg,50.0,4,3.0
+ING007,Capsicum,kg,70.0,6,5.0
+ING008,Cabbage,kg,30.0,8,6.0
+ING009,Carrots,kg,45.0,10,5.0
+ING010,Lemon,kg,80.0,10,3.0
+ING011,Fresh Milk,L,56.0,2,25.0
+ING012,Paneer,kg,320.0,3,8.0
+ING013,Curd / Yogurt,kg,60.0,4,10.0
+ING014,Butter,kg,480.0,30,5.0
+ING015,Cheese Slices,pkt,130.0,45,6.0
+ING016,White Rice,kg,45.0,180,40.0
+ING017,Basmati Rice,kg,85.0,180,25.0
+ING018,Wheat Flour (Atta),kg,40.0,90,35.0
+ING019,Maida (Refined Flour),kg,42.0,90,25.0
+ING020,Poha (Flattened Rice),kg,50.0,90,15.0
+ING021,Toor Dal,kg,140.0,180,20.0
+ING022,Rajma (Kidney Beans),kg,130.0,180,15.0
+ING023,Chole (Chickpeas),kg,120.0,180,15.0
+ING024,Urad Dal,kg,135.0,180,12.0
+ING025,Cooking Refined Oil,L,130.0,180,30.0
+ING026,Tea Powder,kg,320.0,180,6.0
+ING027,Coffee Powder,kg,600.0,180,4.0
+ING028,Sugar,kg,42.0,365,25.0
+ING029,Spices & Masala,kg,280.0,180,8.0
+ING030,Burger Buns,pkt,35.0,4,12.0
+ING031,Pav Buns,pkt,30.0,3,18.0
+ING032,Bread Loaf,pkt,35.0,4,12.0
